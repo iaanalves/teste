@@ -1,0 +1,37 @@
+.botoes {
+    display: flex;
+    gap: 20px;
+}
+
+.btn {
+    width: 328px;
+    height: 67px;
+    background-color: transparent;
+    text-align: center;
+    box-shadow: none;
+    border: 1px solid var(--cor-3);
+    border-radius: 24px;
+    padding: 24px;
+    font-family: 'Inter';
+    font-size: 16px;
+    line-height: 19px;
+    outline: none;
+    cursor: pointer;
+}
+
+button.bt-cripto {
+    background-color: var(--cor-3);
+    color: var(--cor-0);
+}
+
+button.bt-descripto {
+    background-color: #D8DFE8;
+    color: var(--cor-3);
+}
+
+button.bt-copiar {
+    width: 100%;
+    margin-top: 30px;
+    background-color: #D8DFE8;
+    color: var(--cor-3);
+}

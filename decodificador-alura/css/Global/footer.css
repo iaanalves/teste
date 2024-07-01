@@ -1,0 +1,8 @@
+footer {
+    text-align: center;
+    color: var(--cor-0);
+    background: linear-gradient(var(--cor-1), var(--cor-2), var(--cor-3));
+    padding: 40px 0;
+    display: block;
+    height: auto;
+}

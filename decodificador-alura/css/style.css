@@ -1,0 +1,18 @@
+/* Global settings */
+@import "./Global/global.css";
+
+/* Footer */
+@import "./Global/footer.css";
+
+/* Header */
+@import "./Global/header.css";
+
+/* Responsive */
+@import "./Responsive/responsive.css";
+
+/* Utility */
+@import "./Utils/color.css";
+@import "./Utils/utils.css";
+@import "./Utils/button.css";
+@import "./Utils/container.css";
+@import "./Utils/footer.css";
